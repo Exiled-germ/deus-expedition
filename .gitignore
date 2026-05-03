@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+~$*.docx
+
+# Local Kiro files (개인 설정)
+.kiro/
+
+# Build outputs (if any)
+dist/
+build/
